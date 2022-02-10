@@ -10,7 +10,7 @@ plugins {
 group = "jairoavila.com"
 version = "0.0.1"
 application {
-    mainClass.set("io.ktor.server.netty.EngineMain")
+    mainClass.set("jairoavila.com.ApplicationKt")
 }
 
 repositories {
